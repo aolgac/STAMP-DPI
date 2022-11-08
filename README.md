@@ -1,5 +1,5 @@
 # STAMP-DPI Model
-Deep Learning for DPI prediction
+Deep Learning for Drug Protein Interaction (DPI) prediction
 
 ## Environment Requirement
 cuda = 10.1
